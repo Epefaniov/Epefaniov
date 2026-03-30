@@ -2,9 +2,9 @@
 - 👀 I’m interested in Computers/Warhammer universe/Anime/Gaming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Assignments and Get good grades
-- 📫 How to reach me Vae42920@email.vccs.edu
+- 📫 How to reach me vepefanio@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I used to build computers for people and play college football
+- ⚡ Fun fact: I used to build computers for people, play college football, and played in a professional halo tournement
 
 <!---
 Epefaniov/Epefaniov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
